@@ -1,0 +1,409 @@
+{
+  "target_categories": [
+    {
+      "name": "NRA Target Papers",
+      "targets": [
+        {
+          "name": "B-8 - 25 Yard Timed and Rapid Fire",
+          "smallest_ring_diameter_inches": 1.695,
+          "rings": [
+            {
+              "name": "X",
+              "score": 10
+            },
+            {
+              "name": "10",
+              "score": 10
+            },
+            {
+              "name": "9",
+              "score": 9
+            },
+            {
+              "name": "8",
+              "score": 8
+            },
+            {
+              "name": "7",
+              "score": 7
+            },
+            {
+              "name": "6",
+              "score": 6
+            },
+            {
+              "name": "5",
+              "score": 5
+            }
+          ],
+          "default_bullet_caliber": ".22lr"
+        },
+        {
+          "name": "B-6 - 50 Yard Slow Fire",
+          "smallest_ring_diameter_inches": 1.695,
+          "rings": [
+            {
+              "name": "X",
+              "score": 10
+            },
+            {
+              "name": "10",
+              "score": 10
+            },
+            {
+              "name": "9",
+              "score": 9
+            },
+            {
+              "name": "8",
+              "score": 8
+            },
+            {
+              "name": "7",
+              "score": 7
+            },
+            {
+              "name": "6",
+              "score": 6
+            },
+            {
+              "name": "5",
+              "score": 5
+            }
+          ],
+          "default_bullet_caliber": ".22lr"
+        },
+        {
+          "name": "B-16 - 25 Yard Slow Fire",
+          "smallest_ring_diameter_inches": 0.670,
+          "rings": [
+            {
+              "name": "X",
+              "score": 10
+            },
+            {
+              "name": "10",
+              "score": 10
+            },
+            {
+              "name": "9",
+              "score": 9
+            },
+            {
+              "name": "8",
+              "score": 8
+            },
+            {
+              "name": "7",
+              "score": 7
+            },
+            {
+              "name": "6",
+              "score": 6
+            },
+            {
+              "name": "5",
+              "score": 5
+            }
+          ],
+          "default_bullet_caliber": ".22lr"
+        },
+        {
+          "name": "B-4 - 20 Yard Slow Fire",
+          "smallest_ring_diameter_inches": 1.120,
+          "rings": [
+            {
+              "name": "10",
+              "score": 10
+            },
+            {
+              "name": "9",
+              "score": 9
+            },
+            {
+              "name": "8",
+              "score": 8
+            },
+            {
+              "name": "7",
+              "score": 7
+            },
+            {
+              "name": "6",
+              "score": 6
+            },
+            {
+              "name": "5",
+              "score": 5
+            },
+            {
+              "name": "4",
+              "score": 4
+            }
+          ],
+          "default_bullet_caliber": ".22lr"
+        },
+        {
+          "name": "B-5 - 20 Yard Timed and Rapid Fire",
+          "smallest_ring_diameter_inches": 1.120,
+          "rings": [
+            {
+              "name": "X",
+              "score": 10
+            },
+            {
+              "name": "10",
+              "score": 10
+            },
+            {
+              "name": "9",
+              "score": 9
+            },
+            {
+              "name": "8",
+              "score": 8
+            },
+            {
+              "name": "7",
+              "score": 7
+            },
+            {
+              "name": "6",
+              "score": 6
+            }
+          ],
+          "default_bullet_caliber": ".22lr"
+        },
+        {
+          "name": "B-2 - 50 FT. Slow Fire",
+          "smallest_ring_diameter_inches": 0.900,
+          "rings": [
+            {
+              "name": "10",
+              "score": 10
+            },
+            {
+              "name": "9",
+              "score": 9
+            },
+            {
+              "name": "8",
+              "score": 8
+            },
+            {
+              "name": "7",
+              "score": 7
+            },
+            {
+              "name": "6",
+              "score": 6
+            },
+            {
+              "name": "5",
+              "score": 5
+            },
+            {
+              "name": "4",
+              "score": 4
+            }
+          ],
+          "default_bullet_caliber": ".22lr"
+        },
+        {
+          "name": "B-3 - 50 FT. Timed and Rapid Fire",
+          "smallest_ring_diameter_inches": 0.900,
+          "rings": [
+            {
+              "name": "X",
+              "score": 10
+            },
+            {
+              "name": "10",
+              "score": 10
+            },
+            {
+              "name": "9",
+              "score": 9
+            },
+            {
+              "name": "8",
+              "score": 8
+            },
+            {
+              "name": "7",
+              "score": 7
+            },
+            {
+              "name": "6",
+              "score": 6
+            },
+            {
+              "name": "5",
+              "score": 5
+            }
+          ],
+          "default_bullet_caliber": ".22lr"
+        }
+      ]
+    },
+    {
+      "name": "PA Target Paper",
+      "targets": [
+        {
+          "name": "PA (White and Red)",
+          "smallest_ring_diameter_inches": 0.7874,
+          "rings": [
+            {
+              "name": "10",
+              "score": 10
+            },
+            {
+              "name": "9",
+              "score": 9
+            },
+            {
+              "name": "8",
+              "score": 8
+            },
+            {
+              "name": "7",
+              "score": 7
+            },
+            {
+              "name": "6",
+              "score": 6
+            },
+            {
+              "name": "5",
+              "score": 5
+            }
+          ],
+          "default_bullet_caliber": ".22lr"
+        }
+      ]
+    },
+    {
+      "name": "Add Your Own Target Paper",
+      "targets": [
+        {
+          "name": "Close Range",
+          "smallest_ring_diameter_inches": 0.7874,
+          "rings": [
+            {
+              "name": "10",
+              "score": 10
+            },
+            {
+              "name": "9",
+              "score": 9
+            },
+            {
+              "name": "8",
+              "score": 8
+            },
+            {
+              "name": "7",
+              "score": 7
+            },
+            {
+              "name": "6",
+              "score": 6
+            }
+          ],
+          "default_bullet_caliber": ".22lr"
+        },
+        {
+          "name": "Standard Practice",
+          "smallest_ring_diameter_inches": 0.5905,
+          "rings": [
+            {
+              "name": "10",
+              "score": 10
+            },
+            {
+              "name": "9",
+              "score": 9
+            },
+            {
+              "name": "8",
+              "score": 8
+            },
+            {
+              "name": "7",
+              "score": 7
+            },
+            {
+              "name": "6",
+              "score": 6
+            },
+            {
+              "name": "5",
+              "score": 5
+            }
+          ],
+          "default_bullet_caliber": ".22lr"
+        },
+        {
+          "name": "Precision",
+          "smallest_ring_diameter_inches": 0.3937,
+          "rings": [
+            {
+              "name": "10",
+              "score": 10
+            },
+            {
+              "name": "9",
+              "score": 9
+            },
+            {
+              "name": "8",
+              "score": 8
+            },
+            {
+              "name": "7",
+              "score": 7
+            },
+            {
+              "name": "6",
+              "score": 6
+            },
+            {
+              "name": "5",
+              "score": 5
+            },
+            {
+              "name": "4",
+              "score": 4
+            }
+          ],
+          "default_bullet_caliber": ".22lr"
+        },
+        {
+          "name": "Add Your Custom Paper",
+          "smallest_ring_diameter_inches": 0.0,
+          "rings": [],
+          "default_bullet_caliber": ".22lr",
+          "targets": []
+        }
+      ]
+    }
+  ],
+  "bullet_calibers": [
+    {
+      "name": "9mm",
+      "diameter_inches": 0.196
+    },
+    {
+      "name": ".22lr",
+      "diameter_inches": 0.123
+    },
+    {
+      "name": ".45 ACP",
+      "diameter_inches": 0.249
+    },
+    {
+      "name": ".410 Bore/.45 Colt (Revolver)",
+      "diameter_inches": 0.249
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+.dart_tool/
+.packages
+.pub-cache/
+/build/
+ios/Pods/
+android/
+android/.gradle/
+android/app/debug/
+android/app/profile/
+# android/key.properties  
+android/*
+!android/app/
+android/app/*
+!android/app/rangescan.keystore
+native_opencv/*
