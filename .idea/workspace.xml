@@ -5,40 +5,42 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15eb3548-1f2e-4a6a-8c3d-aad75156d300" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lib/core/errors/failures.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/core/theme/app_theme.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/core/usecases/usecase.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/features/authentication/data/datasources/auth_remote_datasource.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/features/authentication/data/models/user_model.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/features/authentication/data/repositories/auth_repository_impl.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/features/authentication/domain/entities/user.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/features/authentication/domain/repositories/auth_repository.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/features/authentication/domain/usecases/get_current_user_usecase.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/features/authentication/domain/usecases/google_signin_usecase.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/features/authentication/domain/usecases/login_usecase.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/features/authentication/domain/usecases/logout_usecase.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/features/authentication/domain/usecases/send_password_reset_usecase.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/features/authentication/domain/usecases/signup_usecase.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/features/authentication/presentation/bloc/login_bloc/auth_bloc.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/features/authentication/presentation/bloc/login_bloc/auth_event.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/features/authentication/presentation/bloc/login_bloc/auth_state.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/features/authentication/presentation/bloc/signup_bloc/signup_bloc.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/features/authentication/presentation/bloc/signup_bloc/signup_event.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/features/authentication/presentation/bloc/signup_bloc/signup_state.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/features/authentication/presentation/pages/forgot_password_page.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/features/authentication/presentation/pages/login_page.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/features/authentication/presentation/pages/signup_page.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Screens/auth/components/logout_dialog.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Screens/auth/controller/auth_controller.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Screens/auth/forget_password.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Screens/auth/intro.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Screens/auth/model/user_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Screens/auth/sign_in_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Screens/auth/sign_up_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Screens/auth/user_auth_check.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/Screens/auth/verify_email.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/Screens/auth/components/logout_dialog.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/Screens/auth/controller/auth_controller.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/Screens/auth/forget_password.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/Screens/auth/intro.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/Screens/auth/model/user_model.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/Screens/auth/sign_in_screen.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/Screens/auth/sign_up_screen.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/Screens/auth/user_auth_check.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/Screens/auth/verify_email.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/core/errors/failures.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/core/theme/app_theme.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/core/usecases/usecase.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/authentication/data/datasources/auth_remote_datasource.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/authentication/data/models/user_model.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/authentication/data/repositories/auth_repository_impl.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/authentication/domain/entities/user.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/authentication/domain/repositories/auth_repository.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/authentication/domain/usecases/get_current_user_usecase.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/authentication/domain/usecases/google_signin_usecase.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/authentication/domain/usecases/login_usecase.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/authentication/domain/usecases/logout_usecase.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/authentication/domain/usecases/send_password_reset_usecase.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/authentication/domain/usecases/signup_usecase.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/authentication/presentation/bloc/login_bloc/auth_bloc.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/authentication/presentation/bloc/login_bloc/auth_event.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/authentication/presentation/bloc/login_bloc/auth_state.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/authentication/presentation/bloc/signup_bloc/signup_bloc.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/authentication/presentation/bloc/signup_bloc/signup_event.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/authentication/presentation/bloc/signup_bloc/signup_state.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/authentication/presentation/pages/forgot_password_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/authentication/presentation/pages/login_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/features/authentication/presentation/pages/signup_page.dart" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
     </list>
@@ -49,6 +51,13 @@
   </component>
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -64,34 +73,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Flutter.main.dart.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.readMode.enableVisualFormatting": "true",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "main",
-    "io.flutter.project.isFirstOpen": "true",
-    "io.flutter.reload.alreadyRun": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/GM/Documents/StudioProjects/RangeScane_Updated_Version/lib/core/theme",
-    "settings.editor.selected.configurable": "flutter.settings",
-    "show.migrate.to.gradle.popup": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Flutter.main.dart.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;io.flutter.project.isFirstOpen&quot;: &quot;true&quot;,
+    &quot;io.flutter.reload.alreadyRun&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/GM/Documents/StudioProjects/RangeScane_Updated_Version&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;flutter.settings&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\GM\Documents\StudioProjects\RangeScane_Updated_Version" />
       <recent name="C:\Users\GM\Documents\StudioProjects\RangeScane_Updated_Version\lib\core\theme" />
       <recent name="C:\Users\GM\Documents\StudioProjects\RangeScane_Updated_Version\lib\core\usecases" />
       <recent name="C:\Users\GM\Documents\StudioProjects\RangeScane_Updated_Version\lib\core\errors" />
       <recent name="C:\Users\GM\Documents\StudioProjects\RangeScane_Updated_Version\lib\features" />
-      <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/ios/Runner" />
@@ -117,17 +126,23 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="Dart">
-          <url>file://$PROJECT_DIR$/lib/core/usecases/usecase.dart</url>
-          <line>16</line>
-          <option name="timeStamp" value="1" />
+          <url>file://$PROJECT_DIR$/lib/routes/app_pages.dart</url>
+          <line>65</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="Dart">
-          <url>file://$PROJECT_DIR$/lib/features/authentication/domain/usecases/signup_usecase.dart</url>
-          <option name="timeStamp" value="2" />
+          <url>file://$PROJECT_DIR$/lib/Screens/services/firearm_services.dart</url>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="Dart">
-          <url>file://$PROJECT_DIR$/lib/features/authentication/presentation/pages/forgot_password_page.dart</url>
-          <option name="timeStamp" value="3" />
+          <url>file://$PROJECT_DIR$/lib/Screens/controller/connection_controller.dart</url>
+          <line>77</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/Screens/controller/connection_controller.dart</url>
+          <line>31</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
